@@ -1,4 +1,6 @@
 # RKSwipeBetweenViewControllers
+ ![demoGif](https://github.com/1966767119/RKSwipeBetweenViewControllers/blob/master/demoGif/demo.gif)
+
 修改之后可能更符合国人的需求，使用起来也还好。具体使用如下：
 #import "RKSwipeBetweenViewControllers.h"
     //初始化代码
